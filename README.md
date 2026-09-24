@@ -34,7 +34,7 @@ Mi enfoque principal está en la convergencia entre el desarrollo de software tr
 
 ### 📈 Estadísticas de GitHub
 
-> *(Nota: Puedes habilitar estas estadísticas utilizando tu nombre de usuario)*
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/TU_USUARIO)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)](https://github.com/TU_USUARIO)
 
